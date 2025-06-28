@@ -1,0 +1,274 @@
+[2025-06-09 01:29:14 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-09 01:29:15 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-09 01:29:17 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-09 01:29:18 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-09 01:29:34 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=6 has been purged, triggered by action: save_post 
+[2025-06-09 01:29:34 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=6 has been purged, triggered by action: save_post 
+[2025-06-09 01:33:15 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-09 01:33:30 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=11 has been purged, triggered by action: save_post 
+[2025-06-09 01:39:50 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=14 has been purged, triggered by action: save_post 
+[2025-06-09 01:40:32 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=17 has been purged, triggered by action: save_post 
+[2025-06-09 01:42:22 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=20 has been purged, triggered by action: save_post 
+[2025-06-09 02:01:31 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=23 has been purged, triggered by action: save_post 
+[2025-06-09 02:06:31 : INFO] - Cache for URL: http://drjuliananchia.local/inicio/ has been purged, triggered by action: save_post 
+[2025-06-09 02:06:31 : INFO] - Cache for homepage has been purged due to change in the Homepage displays options, triggered by action: update_option_page_on_front 
+[2025-06-09 02:06:31 : INFO] - Cache for URL: http://drjuliananchia.local/?elementor_library=kit-por-defecto has been purged, triggered by action: save_post 
+[2025-06-09 02:46:08 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=48 has been purged, triggered by action: save_post 
+[2025-06-09 02:46:19 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=48 has been purged, triggered by action: save_post 
+[2025-06-09 02:46:26 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 02:46:26 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 02:46:51 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=51 has been purged, triggered by action: save_post 
+[2025-06-09 02:47:07 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=51 has been purged, triggered by action: save_post 
+[2025-06-09 02:47:10 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 02:47:10 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 03:31:55 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: wp_trash_post 
+[2025-06-09 03:31:55 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=51 has been purged, triggered by action: save_post 
+[2025-06-09 03:33:32 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=64 has been purged, triggered by action: save_post 
+[2025-06-09 03:33:48 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=64 has been purged, triggered by action: save_post 
+[2025-06-09 03:33:58 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 03:33:58 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 03:34:14 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 03:34:14 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 03:56:45 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 03:56:45 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 04:00:29 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 04:00:30 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 04:50:47 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 04:50:47 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 04:50:47 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 04:52:43 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 04:52:43 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 04:52:43 : INFO] - Cache for URL: http://drjuliananchia.local/sobre-nosotros/ has been purged, triggered by action: save_post 
+[2025-06-09 05:08:56 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:08:56 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:08:57 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:12:06 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:12:08 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:12:09 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:12:18 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=82 has been purged, triggered by action: save_post 
+[2025-06-09 05:12:27 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=82 has been purged, triggered by action: save_post 
+[2025-06-09 05:12:31 : INFO] - Cache for URL: http://drjuliananchia.local/inicio-2/ has been purged, triggered by action: save_post 
+[2025-06-09 05:12:32 : INFO] - Cache for URL: http://drjuliananchia.local/inicio-2/ has been purged, triggered by action: save_post 
+[2025-06-09 05:44:09 : INFO] - Cache for URL: http://drjuliananchia.local/inicio-2/ has been purged, triggered by action: save_post 
+[2025-06-09 05:44:09 : INFO] - Cache for URL: http://drjuliananchia.local/inicio-2/ has been purged, triggered by action: save_post 
+[2025-06-09 05:45:23 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:45:23 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:52:14 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:52:14 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:52:53 : INFO] - Cache for URL: http://drjuliananchia.local/?p=89 has been purged, triggered by action: save_post 
+[2025-06-09 05:52:53 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/hola-mundo/) adjacent to post with id: 89 has been purged, triggered by action: save_post 
+[2025-06-09 05:52:53 : INFO] - Cache for all archives page associated with post_type: post and Title: "Borrador automático" have been purged, triggered by action: save_post 
+[2025-06-09 05:55:20 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:55:20 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 05:58:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 05:58:10 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 05:58:10 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 05:58:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 05:58:11 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 05:58:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 05:58:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 05:58:14 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 05:58:14 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 05:58:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 05:58:14 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 05:58:14 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 05:59:39 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 05:59:39 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 05:59:39 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 05:59:40 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 05:59:40 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 05:59:40 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 06:05:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:05:19 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:05:19 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 06:05:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:05:20 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:05:20 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 06:05:59 : INFO] - Cache for URL: http://drjuliananchia.local/?p=101 has been purged, triggered by action: save_post 
+[2025-06-09 06:05:59 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/hola-mundo/) adjacent to post with id: 101 has been purged, triggered by action: save_post 
+[2025-06-09 06:05:59 : INFO] - Cache for all archives page associated with post_type: post and Title: "Borrador automático" have been purged, triggered by action: save_post 
+[2025-06-09 06:09:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:09:44 : INFO] - Cache for URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/ has been purged, triggered by action: save_post 
+[2025-06-09 06:09:44 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/hola-mundo/) adjacent to post with id: 101 has been purged, triggered by action: save_post 
+[2025-06-09 06:09:44 : INFO] - Cache for all archives page associated with post_type: post and Title: "La Guía Curiosa: «5 Hábitos Sorprendentes de Personas Exitosas (Que No Son lo Que Crees)»" have been purged, triggered by action: save_post 
+[2025-06-09 06:09:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:09:44 : INFO] - Cache for URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/ has been purged, triggered by action: save_post 
+[2025-06-09 06:09:44 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/hola-mundo/) adjacent to post with id: 101 has been purged, triggered by action: save_post 
+[2025-06-09 06:09:44 : INFO] - Cache for all archives page associated with post_type: post and Title: "La Guía Curiosa: «5 Hábitos Sorprendentes de Personas Exitosas (Que No Son lo Que Crees)»" have been purged, triggered by action: save_post 
+[2025-06-09 06:09:59 : INFO] - Cache for URL: http://drjuliananchia.local/?p=104 has been purged, triggered by action: save_post 
+[2025-06-09 06:09:59 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/) adjacent to post with id: 104 has been purged, triggered by action: save_post 
+[2025-06-09 06:09:59 : INFO] - Cache for all archives page associated with post_type: post and Title: "Borrador automático" have been purged, triggered by action: save_post 
+[2025-06-09 06:11:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:11:19 : INFO] - Cache for URL: http://drjuliananchia.local/el-experimento-casero-probamos-los-3-remedios-caseros-mas-virales-de-internet-mito-o-realidad/ has been purged, triggered by action: save_post 
+[2025-06-09 06:11:19 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/) adjacent to post with id: 104 has been purged, triggered by action: save_post 
+[2025-06-09 06:11:19 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Experimento Casero: «Probamos los 3 Remedios Caseros Más Virales de Internet: ¿Mito o Realidad?»" have been purged, triggered by action: save_post 
+[2025-06-09 06:11:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:11:20 : INFO] - Cache for URL: http://drjuliananchia.local/el-experimento-casero-probamos-los-3-remedios-caseros-mas-virales-de-internet-mito-o-realidad/ has been purged, triggered by action: save_post 
+[2025-06-09 06:11:20 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/) adjacent to post with id: 104 has been purged, triggered by action: save_post 
+[2025-06-09 06:11:20 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Experimento Casero: «Probamos los 3 Remedios Caseros Más Virales de Internet: ¿Mito o Realidad?»" have been purged, triggered by action: save_post 
+[2025-06-09 06:11:24 : INFO] - Cache for URL: http://drjuliananchia.local/?p=107 has been purged, triggered by action: save_post 
+[2025-06-09 06:11:24 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-experimento-casero-probamos-los-3-remedios-caseros-mas-virales-de-internet-mito-o-realidad/) adjacent to post with id: 107 has been purged, triggered by action: save_post 
+[2025-06-09 06:11:24 : INFO] - Cache for all archives page associated with post_type: post and Title: "Borrador automático" have been purged, triggered by action: save_post 
+[2025-06-09 06:12:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:12:37 : INFO] - Cache for URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:12:37 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-experimento-casero-probamos-los-3-remedios-caseros-mas-virales-de-internet-mito-o-realidad/) adjacent to post with id: 107 has been purged, triggered by action: save_post 
+[2025-06-09 06:12:37 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Rincón de la Reflexión: «¿Es la Obsesión por la Productividad un Arma de Doble Filo?" have been purged, triggered by action: save_post 
+[2025-06-09 06:12:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:12:37 : INFO] - Cache for URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:12:37 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-experimento-casero-probamos-los-3-remedios-caseros-mas-virales-de-internet-mito-o-realidad/) adjacent to post with id: 107 has been purged, triggered by action: save_post 
+[2025-06-09 06:12:37 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Rincón de la Reflexión: «¿Es la Obsesión por la Productividad un Arma de Doble Filo?" have been purged, triggered by action: save_post 
+[2025-06-09 06:12:42 : INFO] - Cache for URL: http://drjuliananchia.local/?p=110 has been purged, triggered by action: save_post 
+[2025-06-09 06:12:42 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/) adjacent to post with id: 110 has been purged, triggered by action: save_post 
+[2025-06-09 06:12:42 : INFO] - Cache for all archives page associated with post_type: post and Title: "Borrador automático" have been purged, triggered by action: save_post 
+[2025-06-09 06:14:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:14:02 : INFO] - Cache for URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/ has been purged, triggered by action: save_post 
+[2025-06-09 06:14:02 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/) adjacent to post with id: 110 has been purged, triggered by action: save_post 
+[2025-06-09 06:14:02 : INFO] - Cache for all archives page associated with post_type: post and Title: "La Lista Práctica: «7 Cosas Baratas (o Gratis) Que Transformarán Tu Día a Día»" have been purged, triggered by action: save_post 
+[2025-06-09 06:14:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:14:02 : INFO] - Cache for URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/ has been purged, triggered by action: save_post 
+[2025-06-09 06:14:02 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/) adjacent to post with id: 110 has been purged, triggered by action: save_post 
+[2025-06-09 06:14:02 : INFO] - Cache for all archives page associated with post_type: post and Title: "La Lista Práctica: «7 Cosas Baratas (o Gratis) Que Transformarán Tu Día a Día»" have been purged, triggered by action: save_post 
+[2025-06-09 06:14:09 : INFO] - Cache for URL: http://drjuliananchia.local/?p=113 has been purged, triggered by action: save_post 
+[2025-06-09 06:14:09 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/) adjacent to post with id: 113 has been purged, triggered by action: save_post 
+[2025-06-09 06:14:09 : INFO] - Cache for all archives page associated with post_type: post and Title: "Borrador automático" have been purged, triggered by action: save_post 
+[2025-06-09 06:15:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:15:56 : INFO] - Cache for URL: http://drjuliananchia.local/el-viaje-literal-o-metaforico-si-tuvieras-que-mudarte-a-otro-pais-manana-que-3-cosas-te-llevarias/ has been purged, triggered by action: save_post 
+[2025-06-09 06:15:56 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/) adjacent to post with id: 113 has been purged, triggered by action: save_post 
+[2025-06-09 06:15:56 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Viaje (Literal o Metafórico): «Si Tuvieras Que Mudarte a Otro País Mañana, ¿Qué 3 Cosas Te Llevarías?" have been purged, triggered by action: save_post 
+[2025-06-09 06:15:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:15:57 : INFO] - Cache for URL: http://drjuliananchia.local/el-viaje-literal-o-metaforico-si-tuvieras-que-mudarte-a-otro-pais-manana-que-3-cosas-te-llevarias/ has been purged, triggered by action: save_post 
+[2025-06-09 06:15:57 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/) adjacent to post with id: 113 has been purged, triggered by action: save_post 
+[2025-06-09 06:15:57 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Viaje (Literal o Metafórico): «Si Tuvieras Que Mudarte a Otro País Mañana, ¿Qué 3 Cosas Te Llevarías?" have been purged, triggered by action: save_post 
+[2025-06-09 06:23:14 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:23:15 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:24:16 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:24:16 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:24:16 : INFO] - Cache for next post (with URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/) adjacent to post with id: 1 has been purged, triggered by action: save_post 
+[2025-06-09 06:24:16 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 06:24:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:24:17 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:24:17 : INFO] - Cache for next post (with URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/) adjacent to post with id: 1 has been purged, triggered by action: save_post 
+[2025-06-09 06:24:17 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 06:27:04 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:27:05 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:27:12 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:27:12 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:30:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:30:19 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:30:19 : INFO] - Cache for next post (with URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/) adjacent to post with id: 1 has been purged, triggered by action: save_post 
+[2025-06-09 06:30:19 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 06:30:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:30:20 : INFO] - Cache for URL: http://drjuliananchia.local/hola-mundo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:30:20 : INFO] - Cache for next post (with URL: http://drjuliananchia.local/la-guia-curiosa-5-habitos-sorprendentes-de-personas-exitosas-que-no-son-lo-que-crees/) adjacent to post with id: 1 has been purged, triggered by action: save_post 
+[2025-06-09 06:30:20 : INFO] - Cache for all archives page associated with post_type: post and Title: "¡Hola, mundo!" have been purged, triggered by action: save_post 
+[2025-06-09 06:43:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:43:07 : INFO] - Cache for URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/ has been purged, triggered by action: save_post 
+[2025-06-09 06:43:07 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/) adjacent to post with id: 110 has been purged, triggered by action: save_post 
+[2025-06-09 06:43:07 : INFO] - Cache for next post (with URL: http://drjuliananchia.local/el-viaje-literal-o-metaforico-si-tuvieras-que-mudarte-a-otro-pais-manana-que-3-cosas-te-llevarias/) adjacent to post with id: 110 has been purged, triggered by action: save_post 
+[2025-06-09 06:43:07 : INFO] - Cache for all archives page associated with post_type: post and Title: "La Lista Práctica: «7 Cosas Baratas (o Gratis) Que Transformarán Tu Día a Día»" have been purged, triggered by action: save_post 
+[2025-06-09 06:43:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:43:08 : INFO] - Cache for URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/ has been purged, triggered by action: save_post 
+[2025-06-09 06:43:08 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/) adjacent to post with id: 110 has been purged, triggered by action: save_post 
+[2025-06-09 06:43:08 : INFO] - Cache for next post (with URL: http://drjuliananchia.local/el-viaje-literal-o-metaforico-si-tuvieras-que-mudarte-a-otro-pais-manana-que-3-cosas-te-llevarias/) adjacent to post with id: 110 has been purged, triggered by action: save_post 
+[2025-06-09 06:43:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "La Lista Práctica: «7 Cosas Baratas (o Gratis) Que Transformarán Tu Día a Día»" have been purged, triggered by action: save_post 
+[2025-06-09 06:43:54 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:43:54 : INFO] - Cache for URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:43:54 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-experimento-casero-probamos-los-3-remedios-caseros-mas-virales-de-internet-mito-o-realidad/) adjacent to post with id: 107 has been purged, triggered by action: save_post 
+[2025-06-09 06:43:54 : INFO] - Cache for next post (with URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/) adjacent to post with id: 107 has been purged, triggered by action: save_post 
+[2025-06-09 06:43:54 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Rincón de la Reflexión: «¿Es la Obsesión por la Productividad un Arma de Doble Filo?" have been purged, triggered by action: save_post 
+[2025-06-09 06:43:54 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:43:55 : INFO] - Cache for URL: http://drjuliananchia.local/el-rincon-de-la-reflexion-es-la-obsesion-por-la-productividad-un-arma-de-doble-filo/ has been purged, triggered by action: save_post 
+[2025-06-09 06:43:55 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-experimento-casero-probamos-los-3-remedios-caseros-mas-virales-de-internet-mito-o-realidad/) adjacent to post with id: 107 has been purged, triggered by action: save_post 
+[2025-06-09 06:43:55 : INFO] - Cache for next post (with URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/) adjacent to post with id: 107 has been purged, triggered by action: save_post 
+[2025-06-09 06:43:55 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Rincón de la Reflexión: «¿Es la Obsesión por la Productividad un Arma de Doble Filo?" have been purged, triggered by action: save_post 
+[2025-06-09 06:44:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:44:06 : INFO] - Cache for URL: http://drjuliananchia.local/el-viaje-literal-o-metaforico-si-tuvieras-que-mudarte-a-otro-pais-manana-que-3-cosas-te-llevarias/ has been purged, triggered by action: save_post 
+[2025-06-09 06:44:06 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/) adjacent to post with id: 113 has been purged, triggered by action: save_post 
+[2025-06-09 06:44:06 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Viaje (Literal o Metafórico): «Si Tuvieras Que Mudarte a Otro País Mañana, ¿Qué 3 Cosas Te Llevarías?" have been purged, triggered by action: save_post 
+[2025-06-09 06:44:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-09 06:44:07 : INFO] - Cache for URL: http://drjuliananchia.local/el-viaje-literal-o-metaforico-si-tuvieras-que-mudarte-a-otro-pais-manana-que-3-cosas-te-llevarias/ has been purged, triggered by action: save_post 
+[2025-06-09 06:44:07 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/la-lista-practica-7-cosas-baratas-o-gratis-que-transformaran-tu-dia-a-dia/) adjacent to post with id: 113 has been purged, triggered by action: save_post 
+[2025-06-09 06:44:07 : INFO] - Cache for all archives page associated with post_type: post and Title: "El Viaje (Literal o Metafórico): «Si Tuvieras Que Mudarte a Otro País Mañana, ¿Qué 3 Cosas Te Llevarías?" have been purged, triggered by action: save_post 
+[2025-06-09 06:46:34 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:46:35 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:54:26 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:54:26 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:54:51 : INFO] - Cache for URL: http://drjuliananchia.local/inicio-2/ has been purged, triggered by action: wp_trash_post 
+[2025-06-09 06:54:51 : INFO] - Cache for URL: http://drjuliananchia.local/?page_id=82 has been purged, triggered by action: save_post 
+[2025-06-09 06:55:01 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:55:03 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:55:03 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:55:49 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:55:50 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:57:20 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:57:20 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:57:26 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:57:26 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:57:29 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 06:57:29 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-09 07:21:55 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:21:55 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:15 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:15 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:30 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:31 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:37 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:37 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:44 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:44 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:48 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-09 07:34:48 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-12 01:22:50 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 01:22:51 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:05:00 : INFO] - Cache for URL: http://drjuliananchia.local/?p=140 has been purged, triggered by action: save_post 
+[2025-06-12 02:05:00 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-viaje-literal-o-metaforico-si-tuvieras-que-mudarte-a-otro-pais-manana-que-3-cosas-te-llevarias/) adjacent to post with id: 140 has been purged, triggered by action: save_post 
+[2025-06-12 02:05:00 : INFO] - Cache for all archives page associated with post_type: post and Title: "Borrador automático" have been purged, triggered by action: save_post 
+[2025-06-12 02:08:03 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-12 02:08:06 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-12 02:08:14 : INFO] - Cache for URL: http://drjuliananchia.local/?post_type=testimonios&p=141 has been purged, triggered by action: save_post 
+[2025-06-12 02:09:45 : INFO] - Cache for URL: http://drjuliananchia.local/testimonios/ana-r-lectora-frecuente/ has been purged, triggered by action: save_post 
+[2025-06-12 02:09:50 : INFO] - Cache for URL: http://drjuliananchia.local/?post_type=testimonios&p=142 has been purged, triggered by action: save_post 
+[2025-06-12 02:10:17 : INFO] - Cache for URL: http://drjuliananchia.local/testimonios/marcos-g-entusiasta-del-conocimiento/ has been purged, triggered by action: save_post 
+[2025-06-12 02:10:32 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:10:32 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:10:32 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:11:05 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:11:05 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:14:31 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:14:32 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:15:25 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:15:26 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:15:28 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:15:29 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:15:52 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:15:53 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:16:25 : INFO] - Cache for URL: http://drjuliananchia.local/?post_type=testimonios&p=152 has been purged, triggered by action: save_post 
+[2025-06-12 02:17:17 : INFO] - Cache for URL: http://drjuliananchia.local/testimonios/sofia-l-curiosa-por-naturaleza/ has been purged, triggered by action: save_post 
+[2025-06-12 02:17:43 : INFO] - Cache for URL: http://drjuliananchia.local/testimonios/marcos-g-entusiasta-del-conocimiento/ has been purged, triggered by action: save_post 
+[2025-06-12 02:17:56 : INFO] - Cache for URL: http://drjuliananchia.local/testimonios/ana-r-lectora-frecuente/ has been purged, triggered by action: save_post 
+[2025-06-12 02:17:59 : INFO] - Cache for URL: http://drjuliananchia.local/?post_type=testimonios&p=153 has been purged, triggered by action: save_post 
+[2025-06-12 02:18:19 : INFO] - Cache for URL: http://drjuliananchia.local/?post_type=testimonios&p=154 has been purged, triggered by action: save_post 
+[2025-06-12 02:19:14 : INFO] - Cache for URL: http://drjuliananchia.local/testimonios/david-c-buscador-de-soluciones/ has been purged, triggered by action: save_post 
+[2025-06-12 02:19:17 : INFO] - Cache for URL: http://drjuliananchia.local/?post_type=testimonios&p=155 has been purged, triggered by action: save_post 
+[2025-06-12 02:19:34 : INFO] - Cache for URL: http://drjuliananchia.local/testimonios/elena-p-apreciadora-de-contenido-de-calidad/ has been purged, triggered by action: save_post 
+[2025-06-12 02:19:37 : INFO] - Cache for URL: http://drjuliananchia.local/?post_type=testimonios&p=156 has been purged, triggered by action: save_post 
+[2025-06-12 02:33:08 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:33:09 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:34:39 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:34:39 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:34:55 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:34:55 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:35:12 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 02:35:12 : INFO] - Cache for URL: http://drjuliananchia.local/ has been purged, triggered by action: save_post 
+[2025-06-12 03:20:42 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-12 03:20:42 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-12 03:20:43 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-12 03:24:44 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-12 03:24:45 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-12 03:25:48 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-12 03:25:48 : INFO] - Cache for URL: http://drjuliananchia.local/blog/ has been purged, triggered by action: save_post 
+[2025-06-12 03:41:41 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-12 03:41:42 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-28 05:29:58 : INFO] - Cache for URL: http://drjuliananchia.local/?p=168 has been purged, triggered by action: save_post 
+[2025-06-28 05:29:58 : INFO] - Cache for previous post (with URL: http://drjuliananchia.local/el-viaje-literal-o-metaforico-si-tuvieras-que-mudarte-a-otro-pais-manana-que-3-cosas-te-llevarias/) adjacent to post with id: 168 has been purged, triggered by action: save_post 
+[2025-06-28 05:29:58 : INFO] - Cache for all archives page associated with post_type: post and Title: "Borrador automático" have been purged, triggered by action: save_post 

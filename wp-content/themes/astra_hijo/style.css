@@ -1,0 +1,31 @@
+/**
+Theme Name: Astra Hijo
+Author: Julián Anchía
+Description: Este es un tema hijo de astra
+Template: astra
+Version: 4.10.1
+Requires at least: 5.3
+WC requires at least: 3.0
+WC tested up to: 9.6
+Tested up to: 6.8
+Requires PHP: 5.3
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astra_tm7200
+Domain Path: /languages
+Tags: custom-menu, custom-logo, entertainment, one-column, two-columns, left-sidebar, e-commerce, right-sidebar, custom-colors, editor-style, featured-images, full-width-template, microformats, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready, blog
+AMP: true
+
+*/
+.is-style-titulo-personalizado { font-size: 2.5rem; color: #E7F6FF; }
+
+.is-style-boton-personalizado { background: #070614; padding: 12px 24px; border-radius: 4px; }
+
+.is-style-lista-personalizada li { margin-bottom: 8px; color: #555; }
+
+.sobre-page { padding: 4rem 1rem;}
+.sobre-title { font-size: 2.5rem; margin-bottom: 1.5rem; text-align: center;}
+.grid-2cols { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; text-align: center; padding-left: 5rem; padding-right: 5rem;}
+.imagen-destacada { max-width: 25rem; height:auto; border-radius: 8px; }
+.sobre-subtitulo { font-size: 1.75rem; margin-bottom: 1rem;}
+.sobre-texto p { margin-bottom: 1rem; line-height: 1.6;}

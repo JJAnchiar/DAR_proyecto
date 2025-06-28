@@ -1,0 +1,16 @@
+.lightbox-image-widget {
+  text-align: center;
+}
+
+.lightbox-image-widget img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.lightbox-image-widget .caption {
+  margin-top: 8px;
+  font-size: 1rem;
+  color: #333;
+}
